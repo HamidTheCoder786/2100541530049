@@ -1,0 +1,17 @@
+{
+  "companyName": "goMart",
+  "clientID": "4212795a-7a58-4d07-a53e-9ba47965e409",
+  "clientSecret": "ZSHeRLILBXpXTbxh",
+  "ownerName": "Syed Muhammad Hamid",
+  "ownerEmail": "mail2hamid786@gmail.com",
+  "rollNo": "2100541530049"
+}
+
+
+
+
+{
+  "token_type": "Bearer",
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzI0MTYyMzI0LCJpYXQiOjE3MjQxNjIwMjQsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjQyMTI3OTVhLTdhNTgtNGQwNy1hNTNlLTliYTQ3OTY1ZTQwOSIsInN1YiI6Im1haWwyaGFtaWQ3ODZAZ21haWwuY29tIn0sImNvbXBhbnlOYW1lIjoiZ29NYXJ0IiwiY2xpZW50SUQiOiI0MjEyNzk1YS03YTU4LTRkMDctYTUzZS05YmE0Nzk2NWU0MDkiLCJjbGllbnRTZWNyZXQiOiJaU0hlUkxJTEJYcFhUYnhoIiwib3duZXJOYW1lIjoiU3llZCBNdWhhbW1hZCBIYW1pZCIsIm93bmVyRW1haWwiOiJtYWlsMmhhbWlkNzg2QGdtYWlsLmNvbSIsInJvbGxObyI6IjIxMDA1NDE1MzAwNDkifQ.9PP-nSxIkOb3GmsluPQf_W7WKRKCGCe7lHyzhnWms8Y",
+  "expires_in": 1724162324
+}
